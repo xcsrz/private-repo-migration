@@ -6,7 +6,7 @@ You need a system with make, python and pip in working order to proceed.
 
 #### Install
 
-* `git clone https://github.com/private-repo-migration.git`
+* `git clone https://github.com/xcsrz/private-repo-migration.git`
 * `cd private-repo-migration`
 * `make config`
 
